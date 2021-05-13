@@ -1,0 +1,19 @@
+{
+  "name": "african_fashion",
+  "version": "1.0.0",
+  "description": "Lanfing page for african fashion app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsarePhilip/african_fashion.git"
+  },
+  "author": "Philip Boadu Asare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsarePhilip/african_fashion/issues"
+  },
+  "homepage": "https://github.com/AsarePhilip/african_fashion#readme"
+}
